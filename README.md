@@ -25,7 +25,7 @@ Check out my portfolio live at [edwin.dev](https://edwin.dev)!
 
 ## 🧑‍💻 How to Run Locally
 
-1. Clone this repository: `git clone https://github.com/your-username/your-portfolio.git`
+1. Clone this repository: `git@github.com:edwinaloo/edwin-portfolio.git`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm start`
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
